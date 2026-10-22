@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --canvas-aspect-ratio: 16 / 9;
+  }
+
+  body {
+    overflow-x: hidden;
+    background-color: #080612;
+    color: #f5f3ff;
+  }
+}
+
+/* Custom Sleek Dark Blackish Violet Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #080612;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a1f56;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4c3891;
+}
+
+/* Dark Blackish Violet Canvas Grid Pattern */
+.canvas-grid {
+  background-color: #080612;
+  background-size: 24px 24px;
+  background-image: 
+    radial-gradient(circle, rgba(168, 85, 247, 0.15) 1px, transparent 1px);
+}
+
+/* Text Element Inline Editor Reset */
+[contenteditable]:focus {
+  outline: none;
+}

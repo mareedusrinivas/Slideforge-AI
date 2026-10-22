@@ -1,0 +1,1543 @@
+[
+  {
+    "_id": "861ce416-0e94-40e3-97bc-d5da415fd873",
+    "title": "Business Pitch Deck",
+    "description": "A venture-ready pitch deck covering problem, solution, market size, business model, and traction.",
+    "theme": {
+      "id": "modernIndigo",
+      "name": "Modern Indigo",
+      "primary": "#4f46e5",
+      "secondary": "#06b6d4",
+      "accent": "#f59e0b",
+      "background": "#ffffff",
+      "slideBackground": "#ffffff",
+      "text": "#111827",
+      "mutedText": "#6b7280",
+      "cardBackground": "#f8fafc",
+      "fontHeading": "Inter",
+      "fontBody": "Inter"
+    },
+    "slideOrder": [
+      "97183903-8e46-4cb2-a9ba-adee75957f19",
+      "b4ae4296-f3d7-448e-8e96-dc7dc7a3cfa2",
+      "2fa6ba87-a1ec-428b-a69b-a612b64d0b64"
+    ],
+    "slides": [
+      {
+        "id": "97183903-8e46-4cb2-a9ba-adee75957f19",
+        "layout": "title",
+        "background": {
+          "type": "color",
+          "value": "#0f172a",
+          "opacity": 1
+        },
+        "notes": "Introduce company name, vision statement, and speaker title.",
+        "elements": [
+          {
+            "id": "f60da6ad-d0f8-4029-91b3-e966e892c9c6",
+            "type": "heading",
+            "x": 160,
+            "y": 300,
+            "width": 1600,
+            "height": 160,
+            "content": "NexusAI: Enterprise Intelligence",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 68,
+              "fontWeight": 800,
+              "color": "#f8fafc",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "252d708a-11f1-4105-95b3-f56ecb0d0e01",
+            "type": "text",
+            "x": 240,
+            "y": 480,
+            "width": 1440,
+            "height": 80,
+            "content": "Transforming enterprise data into autonomous executive decisions • Series A Pitch",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": 400,
+              "color": "#94a3b8",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "a3ced648-092e-4ba6-92dd-9da7f372acf6",
+            "type": "shape",
+            "x": 885,
+            "y": 590,
+            "width": 150,
+            "height": 6,
+            "content": "rectangle",
+            "style": {
+              "backgroundColor": "#6366f1",
+              "borderRadius": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4ae4296-f3d7-448e-8e96-dc7dc7a3cfa2",
+        "layout": "two-column",
+        "background": {
+          "type": "color",
+          "value": "#ffffff",
+          "opacity": 1
+        },
+        "notes": "Highlight existing market friction vs our paradigm shift.",
+        "elements": [
+          {
+            "id": "fef5b457-6bcf-43e6-831e-e6d1aa5be6d8",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 80,
+            "content": "The Problem vs Our Solution",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 44,
+              "fontWeight": 800,
+              "color": "#0f172a",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "50731e03-356e-4800-97b9-71eba3dc5ae6",
+            "type": "shape",
+            "x": 120,
+            "y": 200,
+            "width": 800,
+            "height": 740,
+            "content": "rectangle",
+            "style": {
+              "backgroundColor": "#fef2f2",
+              "borderColor": "#fca5a5",
+              "borderWidth": 2,
+              "borderRadius": 16
+            }
+          },
+          {
+            "id": "8a0a4957-746a-4de0-9036-9d5aa38e390a",
+            "type": "heading",
+            "x": 160,
+            "y": 240,
+            "width": 720,
+            "height": 60,
+            "content": "The Friction: Data Silos & Delay",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 30,
+              "fontWeight": 700,
+              "color": "#dc2626",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "99edff79-0195-4c49-a74e-64ab1caf4681",
+            "type": "text",
+            "x": 160,
+            "y": 320,
+            "width": 720,
+            "height": 580,
+            "content": "• Fortune 500 enterprises spend 6.5 hours/day aggregating fragmented reports\n• Critical executive decisions lag behind market shifts by 14 to 28 days\n• Legacy BI tools require specialized queries and produce static charts\n• Resulting in $4.2B in annual missed market opportunities",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 400,
+              "color": "#334155",
+              "textAlign": "left",
+              "lineHeight": 1.8
+            }
+          },
+          {
+            "id": "773b1f2a-f251-44cd-a4ba-b9d708b25f16",
+            "type": "shape",
+            "x": 1000,
+            "y": 200,
+            "width": 800,
+            "height": 740,
+            "content": "rectangle",
+            "style": {
+              "backgroundColor": "#f0fdf4",
+              "borderColor": "#86efac",
+              "borderWidth": 2,
+              "borderRadius": 16
+            }
+          },
+          {
+            "id": "d747f0dc-2b05-42c4-bba4-f0c5b979574b",
+            "type": "heading",
+            "x": 1040,
+            "y": 240,
+            "width": 720,
+            "height": 60,
+            "content": "The Nexus Advantage: Real-time Autonomy",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 30,
+              "fontWeight": 700,
+              "color": "#16a34a",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "1c7b2c66-c6a6-4bfd-b175-018a4e434bc3",
+            "type": "text",
+            "x": 1040,
+            "y": 320,
+            "width": 720,
+            "height": 580,
+            "content": "• Unified neural memory layer bridges SQL, SaaS, and unstructured logs in 1-click\n• Continuous predictive modeling delivers instant scenario simulation\n• Conversational AI agent proactively alerts executives to emerging risk\n• 10x faster time-to-insight with zero data team overhead",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 400,
+              "color": "#334155",
+              "textAlign": "left",
+              "lineHeight": 1.8
+            }
+          }
+        ]
+      },
+      {
+        "id": "2fa6ba87-a1ec-428b-a69b-a612b64d0b64",
+        "layout": "title-content",
+        "background": {
+          "type": "color",
+          "value": "#ffffff",
+          "opacity": 1
+        },
+        "notes": "Key traction metrics demonstrating rapid product-market fit.",
+        "elements": [
+          {
+            "id": "1c32cd52-7c2f-4fb3-ba1a-15930183c931",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 80,
+            "content": "Traction & Exponential Growth",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 44,
+              "fontWeight": 800,
+              "color": "#0f172a",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "2beb43cf-6a27-46e7-baab-d6eb7faa7567",
+            "type": "shape",
+            "x": 120,
+            "y": 220,
+            "width": 520,
+            "height": 320,
+            "content": "rectangle",
+            "style": {
+              "backgroundColor": "#f8fafc",
+              "borderColor": "#e2e8f0",
+              "borderWidth": 1,
+              "borderRadius": 16
+            }
+          },
+          {
+            "id": "edcca58c-481a-45db-86f1-32f6f6249ba8",
+            "type": "heading",
+            "x": 150,
+            "y": 260,
+            "width": 460,
+            "height": 80,
+            "content": "$3.8M",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 64,
+              "fontWeight": 800,
+              "color": "#4f46e5",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "9b41460e-7a0b-42da-a8ee-9c2b05d6792c",
+            "type": "text",
+            "x": 150,
+            "y": 360,
+            "width": 460,
+            "height": 140,
+            "content": "Annual Recurring Revenue\n310% YoY Growth with 142% Net Retention",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 22,
+              "fontWeight": 500,
+              "color": "#475569",
+              "textAlign": "center",
+              "lineHeight": 1.5
+            }
+          },
+          {
+            "id": "a57c3ad1-d748-4105-b0bf-fddefd2cb28c",
+            "type": "shape",
+            "x": 700,
+            "y": 220,
+            "width": 520,
+            "height": 320,
+            "content": "rectangle",
+            "style": {
+              "backgroundColor": "#f8fafc",
+              "borderColor": "#e2e8f0",
+              "borderWidth": 1,
+              "borderRadius": 16
+            }
+          },
+          {
+            "id": "a11c878a-4d97-4753-926a-0edd3d825221",
+            "type": "heading",
+            "x": 730,
+            "y": 260,
+            "width": 460,
+            "height": 80,
+            "content": "48+",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 64,
+              "fontWeight": 800,
+              "color": "#06b6d4",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "5e191fa5-1feb-4522-9e9a-18d48df43aa2",
+            "type": "text",
+            "x": 730,
+            "y": 360,
+            "width": 460,
+            "height": 140,
+            "content": "Global Enterprise Customers\nIncluding 4 Fortune 100 technology leaders",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 22,
+              "fontWeight": 500,
+              "color": "#475569",
+              "textAlign": "center",
+              "lineHeight": 1.5
+            }
+          },
+          {
+            "id": "eabaf1c3-f56e-416e-8a8e-4ebb96888f55",
+            "type": "shape",
+            "x": 1280,
+            "y": 220,
+            "width": 520,
+            "height": 320,
+            "content": "rectangle",
+            "style": {
+              "backgroundColor": "#f8fafc",
+              "borderColor": "#e2e8f0",
+              "borderWidth": 1,
+              "borderRadius": 16
+            }
+          },
+          {
+            "id": "21af08df-eb54-4ed5-a003-c1abaf214506",
+            "type": "heading",
+            "x": 1310,
+            "y": 260,
+            "width": 460,
+            "height": 80,
+            "content": "99.4%",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 64,
+              "fontWeight": 800,
+              "color": "#10b981",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "a0cabb8c-4308-4000-8b6d-c3e9a99c72b5",
+            "type": "text",
+            "x": 1310,
+            "y": 360,
+            "width": 460,
+            "height": 140,
+            "content": "Prediction Accuracy Rate\nValidated across 12M+ production decisions",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 22,
+              "fontWeight": 500,
+              "color": "#475569",
+              "textAlign": "center",
+              "lineHeight": 1.5
+            }
+          },
+          {
+            "id": "90713e7d-55d1-4d18-8b49-9f8668013ebc",
+            "type": "shape",
+            "x": 120,
+            "y": 590,
+            "width": 1680,
+            "height": 350,
+            "content": "rectangle",
+            "style": {
+              "backgroundColor": "#f1f5f9",
+              "borderRadius": 16
+            }
+          },
+          {
+            "id": "26c2c040-497b-40b5-bbba-3db3b1b7e7aa",
+            "type": "heading",
+            "x": 160,
+            "y": 630,
+            "width": 1600,
+            "height": 60,
+            "content": "Strategic Milestones for Next 18 Months",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 32,
+              "fontWeight": 700,
+              "color": "#1e293b",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "8765de62-acb6-479a-b5f5-9ac0e7250d50",
+            "type": "text",
+            "x": 160,
+            "y": 710,
+            "width": 1600,
+            "height": 200,
+            "content": "• Expansion into EMEA and APAC financial institutions\n• Launch of autonomous compliance governance agent for HIPAA & SOC2\n• Expansion of partner integrations with Snowflake, Databricks, and Salesforce\n• Raising $12M Series A to accelerate enterprise sales & R&D",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 400,
+              "color": "#334155",
+              "textAlign": "left",
+              "lineHeight": 1.8
+            }
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": "16:9"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=600&q=80",
+    "isArchived": false,
+    "createdAt": "2026-10-22T05:10:17.091Z",
+    "updatedAt": "2026-10-22T05:10:17.091Z"
+  },
+  {
+    "_id": "51c47080-8db1-4fcd-b764-56f3b7ac2ce2",
+    "title": "Natural Language Processing",
+    "description": "Gemini AI-generated presentation on \"NLP\" with 7 slides.",
+    "theme": {
+      "id": "warmEditorial",
+      "name": "Warm Editorial",
+      "primary": "#7c2d12",
+      "secondary": "#b45309",
+      "accent": "#0284c7",
+      "background": "#fffbeb",
+      "slideBackground": "#fefce8",
+      "text": "#292524",
+      "mutedText": "#78716c",
+      "cardBackground": "#fef3c7",
+      "fontHeading": "Playfair Display",
+      "fontBody": "Inter"
+    },
+    "slideOrder": [
+      "7de746fe-6214-44ef-bb5c-3db8c0d98b0e",
+      "fd873c5a-a0a6-436f-9734-cb0e68d8a853",
+      "d6a2e315-6eff-454a-bb98-b49bb370ec64",
+      "5ec265c0-5e3f-4fef-b51f-7b96599c0d20",
+      "0cf9a63e-dbd9-40a6-8fef-3d3f1103ec30",
+      "1b140284-8605-41b0-a930-d899350d308b",
+      "9e836cfe-7dd4-49b5-b8ba-4bd4e0688169"
+    ],
+    "slides": [
+      {
+        "id": "7de746fe-6214-44ef-bb5c-3db8c0d98b0e",
+        "layout": "title",
+        "background": {
+          "type": "color",
+          "value": "#fefce8",
+          "opacity": 1
+        },
+        "notes": "Welcome everyone. Today we are exploring Natural Language Processing, the core discipline that allows machines to understand, interpret, and generate human language. Let's look at how this technology is transforming enterprises.",
+        "elements": [
+          {
+            "id": "99f214fe-86e1-4c27-b013-67956100cac2",
+            "type": "heading",
+            "x": 160,
+            "y": 280,
+            "width": 1600,
+            "height": 180,
+            "content": "The Architecture of Human-AI Communication",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 64,
+              "fontWeight": 800,
+              "color": "#7c2d12",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "5abf603f-5f77-462c-9dec-35b799f163ea",
+            "type": "text",
+            "x": 200,
+            "y": 490,
+            "width": 1520,
+            "height": 100,
+            "content": "Bridging the gap between unstructured text and actionable machine intelligence",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 30,
+              "fontWeight": 400,
+              "color": "#78716c",
+              "textAlign": "center"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd873c5a-a0a6-436f-9734-cb0e68d8a853",
+        "layout": "title-content",
+        "background": {
+          "type": "color",
+          "value": "#fefce8",
+          "opacity": 1
+        },
+        "notes": "To understand NLP, we must look past simple keyword searches. Modern NLP relies on tokens, embeddings, and attention mechanisms to truly grasp the nuances and intent behind human communication.",
+        "elements": [
+          {
+            "id": "c819e419-467e-4244-91b1-cd2aa681f880",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Core Foundations of Modern NLP",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#292524",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "9c37d89f-b000-46e7-bf38-947f0f6c3301",
+            "type": "text",
+            "x": 120,
+            "y": 220,
+            "width": 1680,
+            "height": 720,
+            "content": "Moving from keyword matching to deep contextual comprehension\n\n• Tokenization breaks continuous text into manageable linguistic units for computational analysis\n\n• Semantic embeddings map words and phrases into high-dimensional vector spaces to capture true meaning\n\n• Attention mechanisms allow models to weigh the contextual importance of different words in a sentence",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": 400,
+              "color": "#292524",
+              "lineHeight": 1.9
+            }
+          }
+        ]
+      },
+      {
+        "id": "d6a2e315-6eff-454a-bb98-b49bb370ec64",
+        "layout": "two-column",
+        "background": {
+          "type": "color",
+          "value": "#fefce8",
+          "opacity": 1
+        },
+        "notes": "Historically, NLP relied on rigid statistical models and hand-crafted rules. Today, transformer architectures dominate by processing entire texts in parallel and learning subtle contextual cues dynamically.",
+        "elements": [
+          {
+            "id": "56b1b1ff-f51e-4e2f-b37f-028f5a3a3362",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Evolution of Language Architectures",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#292524",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "44b9660e-a453-41c3-9055-ecbe0dec955a",
+            "type": "shape",
+            "x": 120,
+            "y": 220,
+            "width": 800,
+            "height": 720,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#fef3c7",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 20
+            }
+          },
+          {
+            "id": "1937673b-3586-4d0e-85e5-16ddf5289edc",
+            "type": "text",
+            "x": 160,
+            "y": 260,
+            "width": 720,
+            "height": 640,
+            "content": "• Traditional Statistical Models (N-grams, TF-IDF)\n\n• Rule-based syntactic parsing and grammar trees\n\n• Limited context retention and high maintenance overhead\n\n• Prone to failure with ambiguous or colloquial phrasing",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": 400,
+              "color": "#292524",
+              "lineHeight": 1.8
+            }
+          },
+          {
+            "id": "d12f16c5-e4b4-455b-9bcb-d68cf17ddab1",
+            "type": "shape",
+            "x": 1000,
+            "y": 220,
+            "width": 800,
+            "height": 720,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#fef3c7",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 20
+            }
+          },
+          {
+            "id": "659ceee3-2605-4edc-8251-04b58b0cabf1",
+            "type": "text",
+            "x": 1040,
+            "y": 260,
+            "width": 720,
+            "height": 640,
+            "content": "• Transformer-Based Deep Learning Models\n\n• Self-attention processing for entire documents simultaneously\n\n• Deep contextual understanding across multiple languages\n\n• Few-shot adaptability for specialized enterprise domains",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": 400,
+              "color": "#292524",
+              "lineHeight": 1.8
+            }
+          }
+        ]
+      },
+      {
+        "id": "5ec265c0-5e3f-4fef-b51f-7b96599c0d20",
+        "layout": "metrics",
+        "background": {
+          "type": "color",
+          "value": "#fefce8",
+          "opacity": 1
+        },
+        "notes": "The business value is undeniable. Organizations implementing modern NLP pipelines see massive reductions in manual document processing and dramatic improvements in customer service response times.",
+        "elements": [
+          {
+            "id": "6d780096-30b5-495d-959b-d9fb5787fba2",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Enterprise Impact at Scale",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#292524",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "0f34d9bb-5a92-4ec4-8b0c-f0be139056f7",
+            "type": "shape",
+            "x": 120,
+            "y": 240,
+            "width": 520,
+            "height": 480,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#fef3c7",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 24
+            }
+          },
+          {
+            "id": "939109e6-8aa2-4368-9c94-7c5ece71068f",
+            "type": "heading",
+            "x": 150,
+            "y": 330,
+            "width": 460,
+            "height": 110,
+            "content": "85%",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 72,
+              "fontWeight": 900,
+              "color": "#7c2d12",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "6d9b9caa-89be-4377-9faf-a8822fd80db9",
+            "type": "text",
+            "x": 150,
+            "y": 470,
+            "width": 460,
+            "height": 120,
+            "content": "Reduction in Manual Document Triage",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 600,
+              "color": "#292524",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "8831b85d-1ca0-4f7b-85d5-4264978dced7",
+            "type": "shape",
+            "x": 680,
+            "y": 240,
+            "width": 520,
+            "height": 480,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#fef3c7",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 24
+            }
+          },
+          {
+            "id": "e8492e7c-1494-4370-84aa-f43c527b4f1d",
+            "type": "heading",
+            "x": 710,
+            "y": 330,
+            "width": 460,
+            "height": 110,
+            "content": "4.2x",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 72,
+              "fontWeight": 900,
+              "color": "#7c2d12",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "de4861bf-f5ea-479b-9955-20db3f4c9620",
+            "type": "text",
+            "x": 710,
+            "y": 470,
+            "width": 460,
+            "height": 120,
+            "content": "Faster Customer Inquiry Resolution",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 600,
+              "color": "#292524",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "c418dd44-5cb5-46e7-a71e-cc0b48e7da13",
+            "type": "shape",
+            "x": 1240,
+            "y": 240,
+            "width": 520,
+            "height": 480,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#fef3c7",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 24
+            }
+          },
+          {
+            "id": "ce074e57-816f-4927-92ac-58ff58317ed9",
+            "type": "heading",
+            "x": 1270,
+            "y": 330,
+            "width": 460,
+            "height": 110,
+            "content": "99.4%",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 72,
+              "fontWeight": 900,
+              "color": "#7c2d12",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "5f9d3087-af92-4f13-8a7e-57caaafcf5d8",
+            "type": "text",
+            "x": 1270,
+            "y": 470,
+            "width": 460,
+            "height": 120,
+            "content": "Sentiment Analysis Accuracy",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 600,
+              "color": "#292524",
+              "textAlign": "center"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0cf9a63e-dbd9-40a6-8fef-3d3f1103ec30",
+        "layout": "visual",
+        "background": {
+          "type": "color",
+          "value": "#fefce8",
+          "opacity": 1
+        },
+        "notes": "Most enterprise data is locked in unstructured formats like emails, PDFs, and chat logs. NLP acts as the key to unlock this data, turning isolated text into structured, searchable intelligence.",
+        "elements": [
+          {
+            "id": "6b26e6d0-23a0-403f-bb76-88084531e1b4",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 80,
+            "content": "Unlocking Unstructured Enterprise Data",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 44,
+              "fontWeight": 700,
+              "color": "#292524",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "9dd5507a-56f3-4cd3-9dfd-a54563f9155a",
+            "type": "image",
+            "x": 120,
+            "y": 210,
+            "width": 820,
+            "height": 740,
+            "content": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80",
+            "style": {
+              "borderRadius": 16,
+              "objectFit": "cover"
+            }
+          },
+          {
+            "id": "7a50901c-0e31-4186-9356-061aaac25bbd",
+            "type": "text",
+            "x": 1000,
+            "y": 230,
+            "width": 800,
+            "height": 700,
+            "content": "Turning millions of isolated documents into a unified knowledge graph\n\n• Extracting critical entities, compliance risks, and action items from contracts\n\n• Synthesizing customer feedback across global support channels in real time\n\n• Automating knowledge retrieval to empower internal teams instantly",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 400,
+              "color": "#292524",
+              "lineHeight": 1.8
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b140284-8605-41b0-a930-d899350d308b",
+        "layout": "two-column",
+        "background": {
+          "type": "color",
+          "value": "#fefce8",
+          "opacity": 1
+        },
+        "notes": "As we deploy these systems, we must address critical challenges. Technical hurdles like latency and hallucinations must be balanced against strict governance, data privacy, and bias mitigation.",
+        "elements": [
+          {
+            "id": "0855bf62-ac78-4c6b-b25e-af906a75b8ba",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Navigating Implementation Challenges",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#292524",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "c748a244-de58-4dab-bc2b-2197c813318a",
+            "type": "shape",
+            "x": 120,
+            "y": 220,
+            "width": 800,
+            "height": 720,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#fef3c7",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 20
+            }
+          },
+          {
+            "id": "34f833d3-9eca-48e9-8655-861716049485",
+            "type": "text",
+            "x": 160,
+            "y": 260,
+            "width": 720,
+            "height": 640,
+            "content": "• Technical Hurdles\n\n• Mitigating model hallucinations and factual inaccuracies\n\n• Managing high inference costs and latency constraints\n\n• Handling domain-specific jargon and rare terminology",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": 400,
+              "color": "#292524",
+              "lineHeight": 1.8
+            }
+          },
+          {
+            "id": "c4d0216c-b2e7-4831-8111-6d0aef909ea3",
+            "type": "shape",
+            "x": 1000,
+            "y": 220,
+            "width": 800,
+            "height": 720,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#fef3c7",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 20
+            }
+          },
+          {
+            "id": "17328378-0b68-41bd-ac83-547727be66a9",
+            "type": "text",
+            "x": 1040,
+            "y": 260,
+            "width": 720,
+            "height": 640,
+            "content": "• Governance & Ethics\n\n• Ensuring data privacy and compliance (GDPR, HIPAA)\n\n• Detecting and reducing inherent algorithmic bias\n\n• Maintaining transparent and auditable decision trails",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": 400,
+              "color": "#292524",
+              "lineHeight": 1.8
+            }
+          }
+        ]
+      },
+      {
+        "id": "9e836cfe-7dd4-49b5-b8ba-4bd4e0688169",
+        "layout": "conclusion",
+        "background": {
+          "type": "color",
+          "value": "#fefce8",
+          "opacity": 1
+        },
+        "notes": "In conclusion, successful NLP adoption requires a clear strategy: start by auditing your data silos, ensure strict governance, and build hybrid models that deliver verifiable business outcomes. Thank you.",
+        "elements": [
+          {
+            "id": "d456742f-6db2-4238-be16-57bb7107f542",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Strategic Roadmap for NLP Adoption",
+            "style": {
+              "fontFamily": "Playfair Display",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#292524",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "71992d69-f71b-435d-99c3-58d9a9aaee97",
+            "type": "text",
+            "x": 120,
+            "y": 220,
+            "width": 1680,
+            "height": 720,
+            "content": "Key takeaways for executive leaders and technical stakeholders\n\n• Audit existing unstructured data silos to identify high-ROI use cases\n\n• Establish robust data governance and security frameworks before scaling\n\n• Invest in hybrid architectures that combine retrieval with generative models",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": 400,
+              "color": "#292524",
+              "lineHeight": 1.9
+            }
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": "16:9"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "isArchived": false,
+    "createdAt": "2026-10-22T05:04:51.903Z",
+    "updatedAt": "2026-10-22T05:10:29.235Z"
+  },
+  {
+    "_id": "414cf6d7-2871-4bd1-abc7-c451bb21435e",
+    "title": "NLP",
+    "description": "Gemini AI-generated presentation on \"NLP\" with 5 slides.",
+    "theme": {
+      "id": "obsidianViolet",
+      "name": "Obsidian Violet",
+      "primary": "#a855f7",
+      "secondary": "#c084fc",
+      "accent": "#f43f5e",
+      "background": "#090714",
+      "slideBackground": "#0d0a1b",
+      "text": "#f8fafc",
+      "mutedText": "#a1a1aa",
+      "cardBackground": "#17122e",
+      "fontHeading": "Outfit",
+      "fontBody": "Inter"
+    },
+    "slideOrder": [
+      "e0e507e2-e82f-425a-824e-05f9f69d59cd",
+      "284bea52-d887-42cd-accb-7f92b5bbd033",
+      "18316f16-3a41-4ac3-b329-087dc66c6b1a",
+      "f9d905cc-62ff-480c-b36b-4694b3b077f9",
+      "8b4ee911-61d9-4101-8364-7c7c3520e7b2"
+    ],
+    "slides": [
+      {
+        "id": "e0e507e2-e82f-425a-824e-05f9f69d59cd",
+        "layout": "title",
+        "background": {
+          "type": "color",
+          "value": "#0d0a1b",
+          "opacity": 1
+        },
+        "notes": "Welcome everyone. Today we are exploring Natural Language Processing, a transformative technology that allows machines to understand, interpret, and generate human language.",
+        "elements": [
+          {
+            "id": "dc21d912-4a5c-4684-98f3-59c023d29639",
+            "type": "heading",
+            "x": 160,
+            "y": 280,
+            "width": 1600,
+            "height": 180,
+            "content": "Natural Language Processing",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 64,
+              "fontWeight": 800,
+              "color": "#a855f7",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "a6fccd34-da1e-48b8-afb5-ae8e34bdce7c",
+            "type": "text",
+            "x": 200,
+            "y": 490,
+            "width": 1520,
+            "height": 100,
+            "content": "Bridging human communication and computational intelligence",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 30,
+              "fontWeight": 400,
+              "color": "#a1a1aa",
+              "textAlign": "center"
+            }
+          }
+        ]
+      },
+      {
+        "id": "284bea52-d887-42cd-accb-7f92b5bbd033",
+        "layout": "title-content",
+        "background": {
+          "type": "color",
+          "value": "#0d0a1b",
+          "opacity": 1
+        },
+        "notes": "To understand where we are, we must look at the foundations. From basic tokenization to massive Transformer models, the architecture of language models has fundamentally evolved.",
+        "elements": [
+          {
+            "id": "9396c08d-9621-459b-90bc-2d791cd60fc3",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Core Foundations of Modern NLP",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#f8fafc",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "5e5e4211-c3af-4ada-9d8d-fe0133e008be",
+            "type": "text",
+            "x": 120,
+            "y": 220,
+            "width": 1680,
+            "height": 720,
+            "content": "Key milestones powering today's conversational systems\n\n• Tokenization and parsing convert raw text into structured numerical representations\n\n• Transformer architectures leverage self-attention to capture long-range contextual dependencies\n\n• Pre-training and fine-tuning paradigms drastically reduce the need for task-specific data",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": 400,
+              "color": "#f8fafc",
+              "lineHeight": 1.9
+            }
+          }
+        ]
+      },
+      {
+        "id": "18316f16-3a41-4ac3-b329-087dc66c6b1a",
+        "layout": "two-column",
+        "background": {
+          "type": "color",
+          "value": "#0d0a1b",
+          "opacity": 1
+        },
+        "notes": "Comparing traditional methods with modern generative models highlights the sheer leap in capability. We've moved from rigid rules to fluid, context-aware comprehension.",
+        "elements": [
+          {
+            "id": "0b1833c1-1c88-4451-a470-fa26f0b95cc7",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Traditional vs. Generative Models",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#f8fafc",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "9696a976-d071-4745-b4a2-1c4824273dda",
+            "type": "shape",
+            "x": 120,
+            "y": 220,
+            "width": 800,
+            "height": 720,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#17122e",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 20
+            }
+          },
+          {
+            "id": "9c702493-ce64-4645-a2d9-80dc106d56d7",
+            "type": "text",
+            "x": 160,
+            "y": 260,
+            "width": 720,
+            "height": 640,
+            "content": "• Rule-based systems and statistical NLP\n\n• Heavy reliance on manual feature engineering\n\n• Limited context retention across long passages\n\n• Fragile when encountering domain-specific slang",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": 400,
+              "color": "#f8fafc",
+              "lineHeight": 1.8
+            }
+          },
+          {
+            "id": "c818f5b6-a15e-4d48-8add-a367137a94ca",
+            "type": "shape",
+            "x": 1000,
+            "y": 220,
+            "width": 800,
+            "height": 720,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#17122e",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 20
+            }
+          },
+          {
+            "id": "d55ccbbb-b3f3-4b54-98fc-94dad64d3d94",
+            "type": "text",
+            "x": 1040,
+            "y": 260,
+            "width": 720,
+            "height": 640,
+            "content": "• Deep learning and massive transformer models\n\n• Automated feature discovery via self-supervision\n\n• Superior context handling and memory retention\n\n• High adaptability across diverse industry verticals",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 26,
+              "fontWeight": 400,
+              "color": "#f8fafc",
+              "lineHeight": 1.8
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9d905cc-62ff-480c-b36b-4694b3b077f9",
+        "layout": "metrics",
+        "background": {
+          "type": "color",
+          "value": "#0d0a1b",
+          "opacity": 1
+        },
+        "notes": "The metrics speak for themselves. Organizations implementing robust NLP pipelines see dramatic improvements in efficiency, customer satisfaction, and processing speed.",
+        "elements": [
+          {
+            "id": "a70459fd-9943-4dc8-822b-a41f0b4cc9b6",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Quantifiable Impact at Scale",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#f8fafc",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "f4c6793e-a634-4649-b91b-0f0ad30188a5",
+            "type": "shape",
+            "x": 120,
+            "y": 240,
+            "width": 520,
+            "height": 480,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#17122e",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 24
+            }
+          },
+          {
+            "id": "e1038d48-17ca-4739-a8e8-75947dc72d93",
+            "type": "heading",
+            "x": 150,
+            "y": 330,
+            "width": 460,
+            "height": 110,
+            "content": "85%",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 72,
+              "fontWeight": 900,
+              "color": "#a855f7",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "dff255c4-7ad2-4c31-b505-5e798b0ef1fa",
+            "type": "text",
+            "x": 150,
+            "y": 470,
+            "width": 460,
+            "height": 120,
+            "content": "Reduction in Manual Triage",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 600,
+              "color": "#f8fafc",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "c1d8de72-266b-46d7-a775-ac7bc28e4925",
+            "type": "shape",
+            "x": 680,
+            "y": 240,
+            "width": 520,
+            "height": 480,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#17122e",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 24
+            }
+          },
+          {
+            "id": "a2497b74-57a6-44bd-92b0-f5804ae4acdb",
+            "type": "heading",
+            "x": 710,
+            "y": 330,
+            "width": 460,
+            "height": 110,
+            "content": "3.5x",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 72,
+              "fontWeight": 900,
+              "color": "#a855f7",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "9e0f8b96-c00b-459c-938e-78eaacf3dab4",
+            "type": "text",
+            "x": 710,
+            "y": 470,
+            "width": 460,
+            "height": 120,
+            "content": "ROI in Customer Support",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 600,
+              "color": "#f8fafc",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "4a613038-70f0-498e-8739-b7cd6339d540",
+            "type": "shape",
+            "x": 1240,
+            "y": 240,
+            "width": 520,
+            "height": 480,
+            "content": "rounded",
+            "style": {
+              "backgroundColor": "#17122e",
+              "borderColor": "#2a1f56",
+              "borderWidth": 1,
+              "borderRadius": 24
+            }
+          },
+          {
+            "id": "08ed49c5-24d9-4d51-8e20-5f7bf4d699f6",
+            "type": "heading",
+            "x": 1270,
+            "y": 330,
+            "width": 460,
+            "height": 110,
+            "content": "<200ms",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 72,
+              "fontWeight": 900,
+              "color": "#a855f7",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "addf5e7d-0c15-4929-b99d-c5f2cbf90d98",
+            "type": "text",
+            "x": 1270,
+            "y": 470,
+            "width": 460,
+            "height": 120,
+            "content": "Average Inference Time",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 24,
+              "fontWeight": 600,
+              "color": "#f8fafc",
+              "textAlign": "center"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b4ee911-61d9-4101-8364-7c7c3520e7b2",
+        "layout": "conclusion",
+        "background": {
+          "type": "color",
+          "value": "#0d0a1b",
+          "opacity": 1
+        },
+        "notes": "In conclusion, adopting NLP requires a strategic approach. Start by auditing your workflows, ensuring strong governance, and piloting targeted use cases to drive immediate value.",
+        "elements": [
+          {
+            "id": "7d313de5-4b4a-40b3-8c39-890d0f55c5cd",
+            "type": "heading",
+            "x": 120,
+            "y": 90,
+            "width": 1680,
+            "height": 90,
+            "content": "Strategic Roadmap and Next Steps",
+            "style": {
+              "fontFamily": "Outfit",
+              "fontSize": 48,
+              "fontWeight": 700,
+              "color": "#f8fafc",
+              "textAlign": "left"
+            }
+          },
+          {
+            "id": "eb51384b-0e30-45af-aac6-9869f322f4d8",
+            "type": "text",
+            "x": 120,
+            "y": 220,
+            "width": 1680,
+            "height": 720,
+            "content": "Actionable priorities for enterprise adoption\n\n• Audit existing data workflows to identify prime automation candidates\n\n• Establish robust governance frameworks for data privacy and model bias\n\n• Pilot domain-specific fine-tuning on high-value operational use cases",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": 400,
+              "color": "#f8fafc",
+              "lineHeight": 1.9
+            }
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": "16:9"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "isArchived": false,
+    "createdAt": "2026-10-22T05:02:59.023Z",
+    "updatedAt": "2026-10-22T05:02:59.023Z"
+  },
+  {
+    "_id": "eb105a85-ae95-4eec-88e1-0129d97b0b7a",
+    "title": "Untitled Presentation",
+    "description": "",
+    "theme": {
+      "id": "modernIndigo",
+      "name": "Modern Indigo",
+      "primary": "#4f46e5",
+      "secondary": "#06b6d4",
+      "accent": "#f59e0b",
+      "background": "#ffffff",
+      "slideBackground": "#ffffff",
+      "text": "#111827",
+      "mutedText": "#6b7280",
+      "cardBackground": "#f8fafc",
+      "fontHeading": "Inter",
+      "fontBody": "Inter"
+    },
+    "slideOrder": [
+      "c2922c06-5b3b-437f-acb0-afc4e382b921"
+    ],
+    "slides": [
+      {
+        "id": "c2922c06-5b3b-437f-acb0-afc4e382b921",
+        "layout": "title",
+        "background": {
+          "type": "color",
+          "value": "#ffffff",
+          "opacity": 1
+        },
+        "notes": "",
+        "elements": [
+          {
+            "id": "7c2abcc3-a80f-4171-ad77-f4de11085bff",
+            "type": "heading",
+            "x": 200,
+            "y": 340,
+            "width": 1520,
+            "height": 180,
+            "rotation": 0,
+            "opacity": 1,
+            "zIndex": 2,
+            "content": "Untitled Presentation",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 72,
+              "fontWeight": 800,
+              "textAlign": "center",
+              "color": "#4f46e5",
+              "lineHeight": 1.1,
+              "letterSpacing": -1
+            }
+          },
+          {
+            "id": "e0598716-e8f3-4757-a2be-2004522d44a5",
+            "type": "text",
+            "x": 300,
+            "y": 540,
+            "width": 1320,
+            "height": 80,
+            "rotation": 0,
+            "opacity": 1,
+            "zIndex": 1,
+            "content": "A powerful, compelling subtitle that engages your audience",
+            "style": {
+              "fontFamily": "Inter",
+              "fontSize": 28,
+              "fontWeight": 400,
+              "textAlign": "center",
+              "color": "#6b7280",
+              "lineHeight": 1.4
+            }
+          },
+          {
+            "id": "ec26c42e-b749-4bdb-a52d-34d252f62e4f",
+            "type": "shape",
+            "x": 860,
+            "y": 650,
+            "width": 200,
+            "height": 6,
+            "rotation": 0,
+            "opacity": 0.9,
+            "zIndex": 1,
+            "content": "rectangle",
+            "style": {
+              "backgroundColor": "#4f46e5",
+              "borderRadius": 3
+            }
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": "16:9"
+    },
+    "thumbnail": "",
+    "isArchived": false,
+    "createdAt": "2026-10-22T05:02:17.160Z",
+    "updatedAt": "2026-10-22T05:02:17.160Z"
+  }
+]

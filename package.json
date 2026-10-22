@@ -1,0 +1,10 @@
+{
+  "name": "slideforge-ai",
+  "version": "1.0.0",
+  "description": "SlideForge AI - AI-Powered Presentation Editor",
+  "scripts": {
+    "start": "./start.sh",
+    "dev": "./start.sh",
+    "run": "./start.sh"
+  }
+}
